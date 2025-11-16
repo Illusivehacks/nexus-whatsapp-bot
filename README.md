@@ -1,5 +1,5 @@
 # 🤖 Nexus - WhatsApp Bot
-![Screenshot Placeholder](https://github.com/Illusivehacks/nexus-whatsapp-bot/raw/main/thumbnails/nexxus.jpg)
+![Screenshot Placeholder](nexxus.jpg)
 
 
 **Nexus** is a powerful, modular WhatsApp bot built on Node.js and Baileys, designed to be the central hub for your chats. Easily extensible and built for scale, it's the perfect foundation for developers to fork, customize, and enhance.
